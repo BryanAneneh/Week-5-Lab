@@ -1,0 +1,47 @@
+/* Center image and heading*/
+body{
+	background-color: #2ac98c;
+}
+
+
+
+img.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	width: 50%;
+}
+
+h1{
+    display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	width: 35%;
+}
+	
+	
+
+
+table,td, th{
+	border: 2px solid purple;
+	text-align: left;
+	padding-right: 35px;
+	padding-left: 15px;
+    
+}
+
+ul,li{
+    border: 2px solid red;
+	text-align: left;
+	padding-right: 10px;
+	padding-left: 15px;
+}
+
+div{
+	 border: 2px solid black;
+	text-align: left;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+
